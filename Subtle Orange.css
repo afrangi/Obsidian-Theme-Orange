@@ -1,0 +1,81 @@
+/* == Theme meta ==
+* @My Theme
+* @version 0.0.1
+* @Obsidian-Theme-Orange
+* @Alex Frangiamore
+* == */
+
+/* Make folder titles bold */
+.nav-folder-title {
+    font-weight: regular;
+    color: inherit; /* Keeping the default color */
+}
+
+/* Styling for files in the sidebar */
+.nav-file-title {
+    font-weight: 300; /* Light font weight */
+    color: #CD7F32; /* Off  white colour for contrasting to folder */
+    position: relative; /* Allows to use the ::before pseudo-element */
+    padding-left: 15px; /* Creates space for better readability */
+}
+
+/* Change file hover colour */
+.nav-file-title:hover {
+    background-color: #CD7F32 !important;
+    color: #ffffff !important; /* Optional: changes text colour to white for better contrast */
+}
+
+body {
+  /* Backgrounds */
+    --background-primary: #0F0F0F;
+    --background-secondary: #141414;
+    --titlebar-background: #141414;
+    --titlebar-background-focused	: #141414;
+    
+  
+    --text-normal: #cccccc; /* All body text */
+
+    /* Table styling */
+    --table-header-background: #141414;
+    --table-background: #141414;
+    --table-header-weight: bold;
+    --table-header-color: #CD7F32;
+    --table-header-size: 24px;
+    --table-text-size: 18px;
+    --table-add-button-color: #CD7F32;
+    --table-drag-handle-color: #CD7F32;
+    --table-drag-handle-color-active: #CD7F32;
+   
+
+    /* Code blocks */
+    --code-background: #0A0A0A;
+    --code-normal: #50C878;
+
+    /* Headers */
+    --h1-color: #CD7F32;
+    --h2-color: #CD7F32;
+    --h3-color: #CD7F32;
+    --h4-color: #CD7F32;
+    --h5-color: #CD7F32;
+    --h6-color: #CD7F32;
+
+    /* Link styling*/
+    --link-color: #0067A5;
+    --link-unresolved-color: #0067A5;
+    --link-external-color: #0067A5;
+
+    /* List styling for bullet points */
+    --list-marker-color: #CD7F32;
+
+    /* Genreal User Interface */
+    --nav-heading-color: #CD7F32;
+    --nav-item-color: #CD7F32;
+    --nav-item-size: 14px;
+    --nav-item-color-active: #CD7F32;
+    --nav-item-background-active: #333333;
+    --nav-collapse-icon-color: #CD7F32;
+    --list-marker-color-collapsed: #CD7F32;
+   
+  }
+ 
+  
