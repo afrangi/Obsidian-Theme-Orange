@@ -14,14 +14,14 @@
 /* Styling for files in the sidebar */
 .nav-file-title {
     font-weight: 300; /* Light font weight */
-    color: #CD7F32; /* Off  white colour for contrasting to folder */
+    color: #cd7f32; /* Off  white colour for contrasting to folder */
     position: relative; /* Allows to use the ::before pseudo-element */
     padding-left: 15px; /* Creates space for better readability */
 }
 
 /* Change file hover colour */
 .nav-file-title:hover {
-    background-color: #CD7F32 !important;
+    background-color: #cd7f32 !important;
     color: #ffffff !important; /* Optional: changes text colour to white for better contrast */
 }
 
