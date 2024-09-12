@@ -1,6 +1,5 @@
 # My Obsidian Theme - Orange
 
-**Version**: 0.0.2  
 **Theme Name**: Obsidian-Theme-Orange  
 
 This is a custom theme for [Obsidian](https://obsidian.md), designed with an orange and dark-themed aesthetic for optimal readability and minimalistic UI elements. It features subtle design changes to enhance the user experience while maintaining the core functionalities of the Obsidian app.
