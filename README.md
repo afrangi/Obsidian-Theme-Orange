@@ -5,8 +5,8 @@
 ![Obsidian Orange Theme example](https://github.com/user-attachments/assets/2e51fbd5-3df4-4244-a1d5-89a06b4e430f)
 
 ## Features
-- **Folder Titles**: Folder titles in the sidebar are bolded for better structure without altering the default colour.
-- **File Titles**: File titles have a light font weight and a distinct off-white colour for clear differentiation from folder titles.
+- **Folder Titles**: Folder titles in the sidebar are bolded for better structure with a off-white colour.
+- **File Titles**: File titles have a light font weight and a distinct orange colour for clear differentiation from folder titles.
 - **Hover Effects**: Files in the sidebar change to an orange background with white text on hover for better visibility.
 - **Dark Background**: Primary and secondary backgrounds are set to a dark palette for a smooth, distraction-free experience.
 - **Text and Headers**: 
