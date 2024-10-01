@@ -17,12 +17,6 @@
 - **Links**: All internal and external links are styled with a blue colour for easy identification.
 - **UI Customisation**: Navigation items, bullet points, and various interface elements follow the orange theme for a cohesive appearance.
 
-## Installation
-1. Download the `Subtle Orange.css` file from this repository.
-2. Place it in your Obsidian vault’s `.obsidian/themes` folder.
-3. Open Obsidian and navigate to `Settings` > `Appearance` > `Themes`.
-4. Select **Subtle Orange** from the list of available themes.
-
 ## Customisation
 Feel free to modify the CSS variables to tweak the colours, font sizes, and other styles to suit your preferences. The theme is structured for easy customisation.
 
