@@ -2,7 +2,7 @@
 
 **This is a custom theme for [Obsidian](https://obsidian.md), designed with an orange and dark-themed aesthetic for optimal readability and minimalistic UI elements. It features subtle design changes to enhance the user experience while maintaining the core functionalities of the Obsidian app.**
 
-![Obsidian Orange Theme example](https://github.com/user-attachments/assets/2e51fbd5-3df4-4244-a1d5-89a06b4e430f)
+![Screenshot 2024-10-02 at 01 29 45](https://github.com/user-attachments/assets/0854c383-4ac5-4094-9f3f-e852e09a0353)
 
 ## Features
 - **Folder Titles**: Folder titles in the sidebar are bolded for better structure with a off-white colour.
